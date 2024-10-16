@@ -16,7 +16,7 @@ public class Address {
   }
 
   @Override
-  public String toString() {
+  public String  toString() {
     return "Address{" +
         "country='" + country + '\'' +
         ", state='" + state + '\'' +
